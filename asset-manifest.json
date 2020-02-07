@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaxtone_waitforit/static/css/main.6a934dfc.chunk.css",
+    "main.js": "/kaxtone_waitforit/static/js/main.53662319.chunk.js",
+    "main.js.map": "/kaxtone_waitforit/static/js/main.53662319.chunk.js.map",
+    "runtime-main.js": "/kaxtone_waitforit/static/js/runtime-main.cd1dddb4.js",
+    "runtime-main.js.map": "/kaxtone_waitforit/static/js/runtime-main.cd1dddb4.js.map",
+    "static/js/2.e01216c0.chunk.js": "/kaxtone_waitforit/static/js/2.e01216c0.chunk.js",
+    "static/js/2.e01216c0.chunk.js.map": "/kaxtone_waitforit/static/js/2.e01216c0.chunk.js.map",
+    "index.html": "/kaxtone_waitforit/index.html",
+    "precache-manifest.5015f758bfb62181faf9614a6ceb3907.js": "/kaxtone_waitforit/precache-manifest.5015f758bfb62181faf9614a6ceb3907.js",
+    "service-worker.js": "/kaxtone_waitforit/service-worker.js",
+    "static/css/main.6a934dfc.chunk.css.map": "/kaxtone_waitforit/static/css/main.6a934dfc.chunk.css.map",
+    "static/js/2.e01216c0.chunk.js.LICENSE.txt": "/kaxtone_waitforit/static/js/2.e01216c0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/kaxtone_waitforit/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd1dddb4.js",
+    "static/js/2.e01216c0.chunk.js",
+    "static/css/main.6a934dfc.chunk.css",
+    "static/js/main.53662319.chunk.js"
+  ]
+}
